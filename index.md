@@ -38,7 +38,7 @@ It is a structured, hands-on engineering transformation journey.
 
 | Week | Topic |
 |------|--------|
-| Week 1 | Java Fundamentals & OOP |
+| Week 1 | [Java Fundamentals & OOP](./week-1-java-basics/README.md) |
 | Week 2 | Collections, Exceptions & Streams |
 | Week 3 | File IO & Multithreading Basics |
 | Week 4 | Design Patterns & Clean Architecture |
