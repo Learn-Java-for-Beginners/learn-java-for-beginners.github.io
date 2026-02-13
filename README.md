@@ -51,15 +51,15 @@ This project is licensed under the GNU GPL-3.0 License.
 © 2026 Aditya Pratap Bhuyan  
 Licensed under GPL-3.0  
 Maintained with ❤️ for backend engineering excellence
-```
+
 
 ---
 
 
-```
+
 ## Contributing
 
 This repository is primarily maintained for structured mentorship.
 Pull requests are welcome for improvements to documentation,
 clarity, and exercises.
-```
+
