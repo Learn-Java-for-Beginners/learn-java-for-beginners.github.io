@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: Quiz
+parent: Week 2 - Collections & Exceptions
+nav_order: 3
+---
 
 # 🧩 Week 2 – Assignment
 
