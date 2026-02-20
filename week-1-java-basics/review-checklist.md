@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: Review Checklist
+parent: Week 1 - Java Basics
+nav_order: 4
+---
 
 # Week 1 – Review Checklist
 
