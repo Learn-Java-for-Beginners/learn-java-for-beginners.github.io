@@ -2,7 +2,7 @@
 
 # 🧠 Week 2 – Quiz
 
-## Collections & Exception Handling
+## Collections and Exception Handling
 
 ---
 
