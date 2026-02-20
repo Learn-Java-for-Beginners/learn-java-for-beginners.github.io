@@ -1,3 +1,10 @@
+---
+layout: default
+title: Code Standards
+parent: Syllabus
+nav_order: 2
+---
+
 # Code Standards and Engineering Guidelines
 
 This document defines the coding standards to be followed throughout the mentorship program.
