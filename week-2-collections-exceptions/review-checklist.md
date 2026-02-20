@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: Review Checklist
+parent: Week 2 - Collections & Exceptions
+nav_order: 6
+---
 
 # 📋 Week 2 – Review Checklist
 
