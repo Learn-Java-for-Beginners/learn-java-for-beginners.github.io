@@ -5,7 +5,7 @@ parent: Syllabus
 nav_order: 4
 ---
 
-# Weekly Review Template
+
 
 This document defines the structured format for conducting weekly mentorship reviews.
 
