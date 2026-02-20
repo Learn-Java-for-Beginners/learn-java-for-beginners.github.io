@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: Concepts
+parent: Week 1 - Java Basics
+nav_order: 1
+---
 
 # Concepts – Week 1: Java Foundations and OOP Thinking
 
