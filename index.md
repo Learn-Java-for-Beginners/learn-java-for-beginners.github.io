@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
 # Learn Java for Beginners
 
 An 8-Week Structured Backend Development Mentorship Program
