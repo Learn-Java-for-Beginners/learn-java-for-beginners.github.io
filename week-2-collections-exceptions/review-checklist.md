@@ -2,7 +2,7 @@
 
 # 📋 Week 2 – Review Checklist
 
-## Collections & Exception Handling
+## Collections and Exception Handling
 
 ---
 
