@@ -2,7 +2,7 @@
 
 # Week 1 – Review Checklist
 
-## Java Fundamentals & OOP Foundations
+## Java Fundamentals and OOP Foundations
 
 > This document is used during the weekly review session.
 > The goal is improvement, not criticism.
