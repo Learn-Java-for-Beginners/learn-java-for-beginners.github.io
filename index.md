@@ -12,11 +12,10 @@ An 8-Week Structured Backend Development Mentorship Program
 
 ## 👨‍🏫 Maintainer
 
-**Aditya Pratap Bhuyan**  
+[**Aditya Pratap Bhuyan**](https://linkedin.com/in/adityabhuyan)  
 Senior Developer & Architect  
 IBM  
 
-LinkedIn: https://linkedin.com/in/adityabhuyan  
 
 ---
 
