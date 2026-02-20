@@ -1,3 +1,10 @@
+---
+layout: default
+title: Evaluation Criteria
+parent: Syllabus
+nav_order: 3
+---
+
 # Evaluation Criteria
 
 This mentorship program follows a structured evaluation model to measure technical growth, engineering thinking, and consistency.
