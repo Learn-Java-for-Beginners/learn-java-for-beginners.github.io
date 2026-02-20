@@ -1,7 +1,10 @@
 title: Learn Java for Beginners
 description: 8 Week Backend Mentorship Program
 
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
 
 url: "https://learn-java-for-beginners.github.io"
 baseurl: ""
