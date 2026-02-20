@@ -1,4 +1,10 @@
-
+---
+layout: default
+title: Week 2 - Collections & Exceptions
+parent: Weekly Curriculum
+nav_order: 2
+has_children: true
+---
 
 # 📘 Week 2 – Collections and Exceptions
 
