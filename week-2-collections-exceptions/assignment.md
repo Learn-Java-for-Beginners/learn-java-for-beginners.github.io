@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quiz
+title: Assignment
 parent: Week 2 - Collections & Exceptions
 nav_order: 3
 ---
