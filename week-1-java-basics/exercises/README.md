@@ -1,3 +1,9 @@
+---
+layout: default
+title: Exercises
+parent: Week 1 - Java Basics
+nav_order: 5
+---
 
 These exercises are structured progressively:
 
