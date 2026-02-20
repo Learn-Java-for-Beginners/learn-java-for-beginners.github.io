@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: Study Material
+parent: Week 2 - Collections & Exceptions
+nav_order: 1
+---
 
 # 📚 Study Material – Week 2
 
