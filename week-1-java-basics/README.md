@@ -1,6 +1,6 @@
 
 
-# Week 1 – Java Fundamentals & OOP Foundations
+# Week 1 – Java Fundamentals and OOP Foundations
 
 ## 🎯 Week Objective
 
