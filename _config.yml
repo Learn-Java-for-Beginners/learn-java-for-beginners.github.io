@@ -9,6 +9,7 @@ baseurl: ""
 color_scheme: light
 search_enabled: true
 heading_anchors: true
+back_to_top: true
 
 aux_links:
   "View on GitHub":
