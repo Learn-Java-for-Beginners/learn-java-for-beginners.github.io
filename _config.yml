@@ -1,4 +1,14 @@
 title: Learn Java for Beginners
 description: 8 Week Backend Mentorship Program
-theme: minima
-markdown: kramdown
+
+theme: just-the-docs
+
+url: "https://learn-java-for-beginners.github.io"
+baseurl: ""
+
+color_scheme: light
+search_enabled: true
+
+aux_links:
+  "View on GitHub":
+    - "//github.com/learn-java-for-beginners/learn-java-for-beginners.github.io"
