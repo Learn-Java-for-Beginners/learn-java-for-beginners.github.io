@@ -1,4 +1,4 @@
-# Code Standards & Engineering Guidelines
+# Code Standards and Engineering Guidelines
 
 This document defines the coding standards to be followed throughout the mentorship program.
 
