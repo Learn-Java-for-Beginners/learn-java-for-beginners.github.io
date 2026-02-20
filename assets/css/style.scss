@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.nav-list .nav-list-item .nav-list-link {
+  color: #2563eb;   // normal link color (blue)
+}
+
+.nav-list .nav-list-item .nav-list-link:hover {
+  color: #1d4ed8;   // hover color
+}
+
+.nav-list .nav-list-item .nav-list-link.active {
+  color: #dc2626;   // red active link
+  font-weight: 600;
+}
+
+.nav-list .nav-list-item .nav-list .nav-list-link {
+  color: #6b7280;  // gray for children
+}
