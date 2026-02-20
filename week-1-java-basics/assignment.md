@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: Assignment
+parent: Week 1 - Java Basics
+nav_order: 2
+---
 
 # Week 1 – Assignment
 
