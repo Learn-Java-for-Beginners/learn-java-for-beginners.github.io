@@ -4,7 +4,7 @@ These exercises are structured progressively:
 * 🟢 Level 1 – Fundamentals
 * 🟡 Level 2 – OOP Discipline
 * 🔴 Level 3 – Engineering Thinking
-* 🧠 Level 4 – Edge Case & Defensive Programming
+* 🧠 Level 4 – Edge Case  and  Defensive Programming
 
 This will push her from “student Java” to “backend mindset”.
 
@@ -12,7 +12,7 @@ This will push her from “student Java” to “backend mindset”.
 
 # Week 1 – Exercises
 
-## Java Fundamentals & OOP Discipline
+## Java Fundamentals  and  OOP Discipline
 
 > Complete all exercises in order.
 > Do not skip levels.
@@ -21,7 +21,7 @@ This will push her from “student Java” to “backend mindset”.
 
 ---
 
-# 🟢 Level 1 – Basic Structure & Syntax
+# 🟢 Level 1 – Basic Structure  and  Syntax
 
 ---
 
