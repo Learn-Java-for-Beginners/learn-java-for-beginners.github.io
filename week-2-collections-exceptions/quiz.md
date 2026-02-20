@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: Quiz
+parent: Week 1 - Java Basics
+nav_order: 3
+---
 
 # 🧠 Week 2 – Quiz
 
