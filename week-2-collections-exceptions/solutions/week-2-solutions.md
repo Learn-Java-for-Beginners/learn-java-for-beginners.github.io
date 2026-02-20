@@ -1,8 +1,13 @@
-
+---
+layout: default
+title: Solutions
+parent: Week 2 - Collections & Exceptions
+nav_order: 5
+---
 
 # ✅ Week 2 – Solutions
 
-## Collections & Exception Handling
+## Collections and Exception Handling
 
 ---
 
