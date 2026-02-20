@@ -2,7 +2,7 @@
 
 # 📚 Study Material – Week 2
 
-## Collections & Exception Handling
+## Collections and Exception Handling
 
 ---
 
