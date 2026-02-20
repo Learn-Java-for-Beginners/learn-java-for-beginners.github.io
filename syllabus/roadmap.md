@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Roadmap
+title: 8-Week Backend Engineering Roadmap
 parent: Syllabus
 nav_order: 1
 ---
 
-# 8-Week Backend Engineering Roadmap
+
 
 This roadmap defines the structured transformation from basic Java knowledge to backend application development using Spring Boot and JPA.
 
