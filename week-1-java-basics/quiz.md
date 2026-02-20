@@ -11,7 +11,7 @@ This quiz includes:
 
 # Week 1 – Quiz
 
-## Java Fundamentals & OOP Foundations
+## Java Fundamentals and OOP Foundations
 
 > Do not run the code immediately.
 > First predict the output.
