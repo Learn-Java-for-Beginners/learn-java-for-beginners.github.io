@@ -1,10 +1,10 @@
-
 ---
 layout: default
 title: Exercises
 parent: Week 2 - Collections & Exceptions
 nav_order: 2
 ---
+
 
 # 🧪 Week 2 – Exercises
 
