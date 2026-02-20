@@ -1,6 +1,6 @@
 
 
-# 📘 Week 2 – Collections & Exceptions
+# 📘 Week 2 – Collections and Exceptions
 
 ---
 
