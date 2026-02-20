@@ -416,6 +416,6 @@ By the end of Week 1, you should:
 
 Next week we move to:
 
-👉 Collections, Exceptions & Functional Programming
+[👉 Collections, Exceptions & Functional Programming](./../week-2-collections-exceptions)
 
 ---
