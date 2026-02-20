@@ -8,7 +8,14 @@ baseurl: ""
 
 color_scheme: light
 search_enabled: true
+heading_anchors: true
 
 aux_links:
   "View on GitHub":
     - "//github.com/learn-java-for-beginners/learn-java-for-beginners.github.io"
+
+# Hide files from navigation
+exclude:
+  - LICENSE
+  - README.md
+  - mentor-notes/
