@@ -1,4 +1,10 @@
-
+---
+layout: default
+title: Week 1 - Java Basics
+parent: Weekly Curriculum
+nav_order: 1
+has_children: true
+---
 
 # Week 1 – Java Fundamentals and OOP Foundations
 
