@@ -1,6 +1,6 @@
 
 
-# Concepts – Week 1: Java Foundations & OOP Thinking
+# Concepts – Week 1: Java Foundations and OOP Thinking
 
 This document explains the **core engineering concepts** behind Java basics.
 The goal is not memorization — the goal is clarity.
