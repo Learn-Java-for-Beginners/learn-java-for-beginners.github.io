@@ -16,7 +16,7 @@ Each week builds on the previous one. Concepts are layered progressively to ensu
 
 ---
 
-# Week 1 – Java Fundamentals & OOP Foundations
+# Week 1 – Java Fundamentals  and  OOP Foundations
 
 ## Objectives
 - Strengthen object-oriented programming fundamentals
@@ -46,7 +46,7 @@ Learner should confidently design and implement simple domain models using OOP p
 
 ---
 
-# Week 2 – Collections, Exceptions & Streams
+# Week 2 – Collections, Exceptions  and  Streams
 
 ## Objectives
 - Work with real-world data structures
@@ -74,7 +74,7 @@ Learner should be able to manipulate collections efficiently and handle runtime 
 
 ---
 
-# Week 3 – File IO & Multithreading Basics
+# Week 3 – File IO  and  Multithreading Basics
 
 ## Objectives
 - Persist data outside application memory
@@ -99,7 +99,7 @@ Learner understands basic concurrency risks and can perform file-based persisten
 
 ---
 
-# Week 4 – Design Patterns & Clean Architecture
+# Week 4 – Design Patterns  and  Clean Architecture
 
 ## Objectives
 - Introduce structured thinking in software design
@@ -123,7 +123,7 @@ Learner writes modular and extensible code.
 
 ---
 
-# Week 5 – Spring Boot & REST APIs
+# Week 5 – Spring Boot  and  REST APIs
 
 ## Objectives
 - Transition from core Java to backend framework
@@ -148,7 +148,7 @@ Learner can build and run a REST-based backend service.
 
 ---
 
-# Week 6 – JPA & Hibernate
+# Week 6 – JPA  and  Hibernate
 
 ## Objectives
 - Understand ORM principles
@@ -172,7 +172,7 @@ Learner can integrate backend services with relational databases.
 
 ---
 
-# Week 7 – Testing, Validation & Logging
+# Week 7 – Testing, Validation  and  Logging
 
 ## Objectives
 - Write reliable and testable code
@@ -197,7 +197,7 @@ Learner writes testable and maintainable backend code.
 
 ---
 
-# Week 8 – Docker & Deployment Basics
+# Week 8 – Docker  and  Deployment Basics
 
 ## Objectives
 - Understand containerization
