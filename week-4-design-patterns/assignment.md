@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assignment - Week 4
+title: Assignment
 parent: Week 4 - Design Patterns & Clean Architecture
 nav_order: 4
 ---
