@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exercises - Week 4
+title: Exercises
 parent: Week 4 - Design Patterns & Clean Architecture
 nav_order: 2
 ---
