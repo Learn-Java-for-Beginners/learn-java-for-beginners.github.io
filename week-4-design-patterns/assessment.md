@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assessment - Week 4
+title: Assessment
 parent: Week 4 - Design Patterns & Clean Architecture
 nav_order: 3
 ---
