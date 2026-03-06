@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Study Material - Week 4
+title: Study Material
 parent: Week 4 - Design Patterns & Clean Architecture
 nav_order: 1
 ---
