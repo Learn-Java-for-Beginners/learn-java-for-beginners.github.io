@@ -45,12 +45,12 @@ It is a structured, hands-on engineering transformation journey.
 |------|--------|
 | Week 1 | [Java Fundamentals & OOP](./week-1-java-basics/README.md) |
 | Week 2 | [Collections, Exceptions & Streams](./week-2-collections-exceptions/README.md) |
-| Week 3 | File IO & Multithreading Basics |
-| Week 4 | Design Patterns & Clean Architecture |
-| Week 5 | Spring Boot & REST APIs |
-| Week 6 | JPA & Hibernate |
-| Week 7 | Testing, Validation & Logging |
-| Week 8 | Docker & Deployment Basics |
+| Week 3 | [File IO & Multithreading Basics](./week-3-io-threads/README.md) |
+| Week 4 | [Design Patterns & Clean Architecture](./week-4-design-patterns/README.md) |
+| Week 5 | [Spring Boot & REST APIs](./week-5-spring-boot/README.md) |
+| Week 6 | [JPA & Hibernate](./week-6-jpa-hibernate/README.md) |
+| Week 7 | [Testing, Validation & Logging](./week-7-testing/README.md) |
+| Week 8 | [Docker & Deployment Basics](./week-8-docker-deployment/README.md) |
 
 Each week contains:
 
