@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Solutions - Week 4
+title: Solutions
 parent: Week 4 - Design Patterns & Clean Architecture
 nav_order: 5
 ---
