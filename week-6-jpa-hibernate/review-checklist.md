@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Review Checklist - JPA and Hibernate
