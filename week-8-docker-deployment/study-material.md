@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Week 8 - Docker and Deployment - Study Material
-parent: Weekly Curriculum
-nav_order: 10
+parent: Week 8 - Docker & Deployment
+nav_order: 1
 ---
 
 # Week 8 - Docker and Deployment
