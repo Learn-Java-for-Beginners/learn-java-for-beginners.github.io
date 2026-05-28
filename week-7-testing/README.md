@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Week 7 - Testing
+title: Week 7 - Testing, Logging and Validation
 parent: Weekly Curriculum
 nav_order: 9
 ---
