@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Exercises - JPA and Hibernate
